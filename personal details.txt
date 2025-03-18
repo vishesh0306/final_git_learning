@@ -2,3 +2,7 @@ P!:
 Vishesh Dudeja
 CSE AIML
 GZB
+p2:
+Nayab
+IT
+GZB
